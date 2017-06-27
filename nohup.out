@@ -1,0 +1,236 @@
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+events.js:154
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+events.js:154
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+events.js:154
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+    at Error (native)
+events.js:154
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3000
+    at Object.exports._errnoException (util.js:893:11)
+    at exports._exceptionWithHostPort (util.js:916:20)
+    at Server.__dirname.Server.Server._listen2 (net.js:1246:14)
+    at listen (net.js:1282:10)
+    at Server.__dirname.Server.Server.listen (net.js:1378:5)
+    at EventEmitter.listen (/home/ubuntu/server/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ubuntu/server/index.js:10:5)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
+TypeError: Cannot read property 'handle' of undefined
+    at /home/ubuntu/server/things.js:30:33
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/ubuntu/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/ubuntu/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:317:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/home/ubuntu/server/node_modules/express/lib/middleware/init.js:40:5)
